@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    word-wrap: break-word; /* Ensures text wraps within the screen */
+}
+
+pre {
+    white-space: pre-wrap; /* Allows long lines in <pre> to wrap */
+    word-wrap: break-word;
+}
